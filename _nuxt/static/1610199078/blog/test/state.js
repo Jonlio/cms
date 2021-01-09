@@ -1,0 +1,1 @@
+window.__NUXT__={staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1610199078",layout:"default",error:null,state:{blogPosts:[{date:"2021-01-09T12:34:31.216Z",title:"Le test",thumbnail:"\u002Fimg\u002Flogo-info-png-6.png",body:"J'esper que ca va marher",slug:"test"}]},serverRendered:true,routePath:"\u002Fblog\u002Ftest",config:{content:{dbHash:"b25b294c"}}};

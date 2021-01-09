@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/test", {data:[{blogPost:{date:"2021-01-09T12:34:31.216Z",title:"Le test",thumbnail:"\u002Fimg\u002Flogo-info-png-6.png",body:"J'esper que ca va marher"}}],fetch:[],mutations:[]});
